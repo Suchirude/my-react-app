@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "How many cards are in a standard deck of playing cards?",
+      "answer": "52"
+    },
+    {
+      "question": "What is James Bond's code name?",
+      "answer": "007"
+    },
+    {
+      "question": "Which country is the largest in the world?",
+      "answer": "Russia"
+    },
+    {
+      "question": "What is an eight-sided shape called?",
+      "answer": "Octagon"
+    }
+  ]
+}
