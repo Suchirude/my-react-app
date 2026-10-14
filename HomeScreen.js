@@ -1,12 +1,11 @@
-import {StyleSheet, Text, View} from "react-native"
-
+import {Platform, StyleSheet, Text, View} from "react-native"
+import PostText from './components/text'
 
 export default function HomeScreen() {
 
     return (
         <View style={styles.container}>
-            <Text style={styles.bigtext}>WELCOME to my fun trivia app!</Text>
-
+            <PostText content="WELCOME to my fun trivia app"/>
         </View>
     )
 }
